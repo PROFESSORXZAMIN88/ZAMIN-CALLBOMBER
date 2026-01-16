@@ -16,7 +16,7 @@
     <td align="center" width="200">
       <img src="https://files.catbox.moe/hy45p3.jpg" width="120px" style="border-radius: 15px; border: 2px solid #00FF41;" />
       <br>
-      <b>ABHEE BHAI</b>
+      <b>ZAMIN ALI</b>
     </td>
     <td width="300">
       <p><b>🚀 TOOL NAME:</b> CALL BOMBER V2</p>
@@ -29,7 +29,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://files.catbox.moe/hy45p3.jpg" width="100%">
 
 ### 📥 INSTALLATION STEPS (COPY ONE BY ONE)
 
