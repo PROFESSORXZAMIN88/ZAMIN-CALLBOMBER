@@ -1,38 +1,52 @@
-<div align="center">
+<h1 align="center">🚀 CALL BOMBER V2 🚀</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/opx3qf.jpg" width="200" style="border-radius: 50%; box-shadow: 0 0 30px #00FF41; border: 4px solid #00FF41;">
+  <img src="https://files.catbox.moe/hy45p3.jpg" alt="CALL BOMBER V2" width="600"/>
 </p>
 
-# 🌌 CALL BOMBER V2 🌌
-### ⚡ DEVELOPED BY PROFESSOR ZAMIN ⚡
+<h3 align="center">⚡ Developed By PROFESSOR ZAMIN ⚡</h3>
 
-<img src="https://files.catbox.moe/hy45p3.jpg.jpgnes=PREMIUM+CLI+INTERFACE;FAST+API+RESPONSE;STAY+CONNECTED+WITH+US" alt="Typing SVG" />
-
----
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://files.catbox.moe/hy45p3.jpg" width="120px" style="border-radius: 15px; border: 2px solid #00FF41;" />
-      <br>
-      <b>ZAMIN ALI</b>
-    </td>
-    <td width="300">
-      <p><b>🚀 TOOL NAME:</b> CALL BOMBER V2</p>
-      <p><b>🟢 STATUS:</b> LIVE & ACTIVE</p>
-      <p><b>💻 PLATFORM:</b> TERMUX / LINUX</p>
-      <p><b>🛡️ SECURITY:</b> ENCRYPTED API</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Powerful • Fast • Professional • Secure</b>
+</p>
 
 ---
 
-<img src="https://files.catbox.moe/hy45p3.jpg" width="100%">
+## 🧠 About This Tool
 
-### 📥 INSTALLATION STEPS (COPY ONE BY ONE)
+🔥 **CALL BOMBER V2** is an advanced automation tool designed for  
+**Termux / Linux users**, built with performance and stability in mind.
 
-**Step 1: Update & Upgrade Termux**
+💻 Clean code  
+🚀 Fast execution  
+🔐 Secure API system  
+
+---
+
+## 📌 Tool Information
+
+- 🧨 **Tool Name:** Call Bomber V2  
+- 🟢 **Status:** Live & Active  
+- 🧑‍💻 **Developer:** Professor Zamin  
+- 🐧 **Platform:** Termux / Linux  
+- 🛡 **Security:** Encrypted API  
+- ⚙️ **Version:** v2.0  
+
+---
+
+## ✨ Features
+
+✔️ High-speed call process  
+✔️ Easy to use interface  
+✔️ Stable & optimized code  
+✔️ Works on low-end devices  
+✔️ Regular updates  
+✔️ Developer support  
+
+---
+
+## 🛠 Installation Steps (Copy One By One)
+
+### 🔹 Step 1: Update Termux
 ```bash
-pkg update && pkg upgrade -y && pkg install git -y && cd $HOME && rm -rf abheecallbomber && git clone https://github.com/AbheeBhaiMod/abheecallbomber.git && cd abheecallbomber && chmod +x * && ./call_bombar.sh
+pkg update && pkg upgrade -y
