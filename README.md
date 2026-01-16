@@ -7,7 +7,7 @@
 # 🌌 CALL BOMBER V2 🌌
 ### ⚡ DEVELOPED BY PROFESSOR ZAMIN ⚡
 
-<img src="https://files.catbox.moe/hy45p3.jpgnes=PREMIUM+CLI+INTERFACE;FAST+API+RESPONSE;STAY+CONNECTED+WITH+US" alt="Typing SVG" />
+<img src="https://files.catbox.moe/hy45p3.jpg.jpgnes=PREMIUM+CLI+INTERFACE;FAST+API+RESPONSE;STAY+CONNECTED+WITH+US" alt="Typing SVG" />
 
 ---
 
