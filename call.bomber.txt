@@ -3,4 +3,4 @@ pkg update && pkg upgrade -y && pkg install git -y && cd $HOME && rm -rf abheeca
 
 
 is Command Ko All Copy Krke Termux Or Run Krna ok Full Video Here 🖇️ 
-https://youtube.com/shorts/vlj6Z4X8xOc?feature=share
+https://t.me/PROFESSORXZAMINHACKER
