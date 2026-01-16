@@ -5,7 +5,7 @@
 </p>
 
 # 🌌 CALL BOMBER V2 🌌
-### ⚡ DEVELOPED BY PROFESSOR ABHEEBHAI ⚡
+### ⚡ DEVELOPED BY PROFESSOR ZAMIN ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=70&lines=PREMIUM+CLI+INTERFACE;FAST+API+RESPONSE;STAY+CONNECTED+WITH+US" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://files.catbox.moe/opx3qf.jpg" width="120px" style="border-radius: 15px; border: 2px solid #00FF41;" />
+      <img src="https://files.catbox.moe/hy45p3.jpg" width="120px" style="border-radius: 15px; border: 2px solid #00FF41;" />
       <br>
       <b>ABHEE BHAI</b>
     </td>
