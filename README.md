@@ -1,52 +1,68 @@
-<h1 align="center">🚀 CALL BOMBER V2 🚀</h1>
+<h1 align="center">💣 CALL BOMBER V2 💣</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/hy45p3.jpg" alt="CALL BOMBER V2" width="600"/>
+  <img src="https://files.catbox.moe/hy45p3.jpg" width="180"/>
 </p>
 
-<h3 align="center">⚡ Developed By PROFESSOR ZAMIN ⚡</h3>
+<h3 align="center">⚡ Developed By PROFESSOR X ZAMIN ⚡</h3>
 
 <p align="center">
-  <b>Powerful • Fast • Professional • Secure</b>
+  <b>Elite • Secure • Powerful • Next-Gen Tool</b>
 </p>
 
 ---
 
-## 🧠 About This Tool
+## 🔥 Preview
 
-🔥 **CALL BOMBER V2** is an advanced automation tool designed for  
-**Termux / Linux users**, built with performance and stability in mind.
-
-💻 Clean code  
-🚀 Fast execution  
-🔐 Secure API system  
+<p align="center">
+  <img src="https://files.catbox.moe/hy45p3.jpg" width="350"/>
+</p>
 
 ---
 
-## 📌 Tool Information
+## 🧠 About This Project
 
-- 🧨 **Tool Name:** Call Bomber V2  
-- 🟢 **Status:** Live & Active  
-- 🧑‍💻 **Developer:** Professor Zamin  
+🚀 **CALL BOMBER V2** is a **high-performance automation tool**  
+designed for **Termux & Linux users** with a **professional hacker-grade structure**.
+
+🧑‍💻 Crafted by **PROFESSOR X ZAMIN**  
+⚙️ Optimized for speed & stability  
+🔐 Uses secured & encrypted logic  
+
+---
+
+## 🖼 Tool Interface
+
+<p align="center">
+  <img src="https://files.catbox.moe/hy45p3.jpg" width="600"/>
+</p>
+
+---
+
+## 📌 Tool Details
+
+- 🧨 **Tool Name:** CALL BOMBER V2  
+- 🟢 **Status:** LIVE & ACTIVE  
+- 🧑‍💻 **Developer:** PROFESSOR X ZAMIN  
 - 🐧 **Platform:** Termux / Linux  
-- 🛡 **Security:** Encrypted API  
-- ⚙️ **Version:** v2.0  
+- 🛡 **Security:** Encrypted System  
+- ⚙️ **Version:** v2.0 PRO  
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-✔️ High-speed call process  
-✔️ Easy to use interface  
-✔️ Stable & optimized code  
-✔️ Works on low-end devices  
+✔️ Fast & stable execution  
+✔️ Clean professional structure  
+✔️ Easy commands  
+✔️ Low device resource usage  
 ✔️ Regular updates  
-✔️ Developer support  
+✔️ Developer supported  
 
 ---
 
-## 🛠 Installation Steps (Copy One By One)
+## 🛠 Installation (Copy Step-by-Step)
 
-### 🔹 Step 1: Update Termux
+### 🔹 Update Termux
 ```bash
 pkg update && pkg upgrade -y
