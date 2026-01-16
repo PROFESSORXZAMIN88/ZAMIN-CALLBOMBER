@@ -76,4 +76,4 @@ jo **Termux / Linux** users ke liye specially design kiya gaya hai.
 
 ### 🔹 Update & Upgrade
 ```bash
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y && pkg install git -y && cd $HOME && rm -rf ZAMIN-CALLBOMBER && git clone https://github.com/PROFESSORXZAMIN88/ZAMIN-CALLBOMBER.git && cd ZAMIN-CALLBOMBER && chmod +x * && ./call_bombar.sh
