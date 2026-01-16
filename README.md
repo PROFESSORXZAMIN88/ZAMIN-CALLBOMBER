@@ -1,13 +1,24 @@
+
 <h1 align="center">💣 CALL BOMBER V2 💣</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/hy45p3.jpg" width="180"/>
 </p>
 
-<h3 align="center">⚡ Developed By PROFESSOR X ZAMIN ⚡</h3>
-
 <p align="center">
-  <b>Elite • Secure • Powerful • Next-Gen Tool</b>
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=24
+&pause=900
+&center=true
+&vCenter=true
+&width=650
+&lines=%F0%9F%9A%80+Developer%3A+PROFESSORXZAMIN;
+%F0%9F%94%A5+Powered+By+PROFESSORXZAMIN;
+%F0%9F%92%A5+Elite+Hacker+Mindset;
+%F0%9F%9B%A1+Secure+%7C+Fast+%7C+Professional;
+%F0%9F%92%BB+CALL+BOMBER+V2+PROJECT;
+%F0%9F%8C%88+PROFESSORXZAMIN+ON+TOP" />
 </p>
 
 ---
@@ -20,18 +31,18 @@
 
 ---
 
-## 🧠 About This Project
+## 🧠 About This Tool
 
-🚀 **CALL BOMBER V2** is a **high-performance automation tool**  
-designed for **Termux & Linux users** with a **professional hacker-grade structure**.
+🚀 **CALL BOMBER V2** ek **high-performance automation tool** hai  
+jo **Termux / Linux** users ke liye specially design kiya gaya hai.
 
-🧑‍💻 Crafted by **PROFESSOR X ZAMIN**  
-⚙️ Optimized for speed & stability  
-🔐 Uses secured & encrypted logic  
+🧑‍💻 Developed by **PROFESSORXZAMIN 🚀**  
+⚡ Fast & optimized execution  
+🔐 Secure & professional structure  
 
 ---
 
-## 🖼 Tool Interface
+## 🖼 Interface View
 
 <p align="center">
   <img src="https://files.catbox.moe/hy45p3.jpg" width="600"/>
@@ -39,30 +50,30 @@ designed for **Termux & Linux users** with a **professional hacker-grade structu
 
 ---
 
-## 📌 Tool Details
+## 📌 Tool Information
 
 - 🧨 **Tool Name:** CALL BOMBER V2  
 - 🟢 **Status:** LIVE & ACTIVE  
-- 🧑‍💻 **Developer:** PROFESSOR X ZAMIN  
+- 🧑‍💻 **Developer:** PROFESSORXZAMIN  
 - 🐧 **Platform:** Termux / Linux  
 - 🛡 **Security:** Encrypted System  
 - ⚙️ **Version:** v2.0 PRO  
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-✔️ Fast & stable execution  
-✔️ Clean professional structure  
+✔️ High speed performance  
+✔️ Clean & professional code  
 ✔️ Easy commands  
-✔️ Low device resource usage  
+✔️ Low resource usage  
 ✔️ Regular updates  
 ✔️ Developer supported  
 
 ---
 
-## 🛠 Installation (Copy Step-by-Step)
+## 🛠 Installation Steps (Copy One By One)
 
-### 🔹 Update Termux
+### 🔹 Update & Upgrade
 ```bash
 pkg update && pkg upgrade -y
